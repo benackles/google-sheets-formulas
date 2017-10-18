@@ -10,6 +10,12 @@
 
 ```=GETBUSINESSNAME();```
 
+```=GETLOGOIMAGE();```
+
+```=GETPROFILEIMAGES();```
+
+```=GETCOVERIMAGES();```
+
 ## Google Keyword Planner
 
 ```=GOOGLEAVERAGEMONTHLYSEARCHES();```
