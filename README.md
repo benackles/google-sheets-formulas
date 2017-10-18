@@ -28,7 +28,7 @@
 * Subdomain
 * Root Domain
 
-```=GETSOCIALPROFILELINKS(preferredURL);```
+```=GETSOCIALPROFILEURLS(preferredURL);```
 
 ```=GETBUSINESSNAME(preferredURL);```
 
