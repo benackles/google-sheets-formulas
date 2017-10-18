@@ -6,6 +6,6 @@
 
 ## Get URL Information
 
-### Get Preferred URL
+```=GETPREFERREDURL();```
 
-### Get Business Name from URL
+```=GETBUSINESSNAME();```
