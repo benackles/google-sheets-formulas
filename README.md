@@ -32,10 +32,6 @@
 
 ```=GETLOGOIMAGE(preferredURL);```
 
-```=GETPROFILEIMAGES(preferredURL);```
-
-```=GETCOVERIMAGES(preferredURL);```
-
 ## Google Keyword Planner
 
 ```=GOOGLEAVERAGEMONTHLYSEARCHES(keyword, locations);```
