@@ -30,7 +30,7 @@
 
 ```=GETSOCIALPROFILELINKS(preferredURL);```
 
-** Social Profile Links**
+**Social Profile Links**
 
 * Facebook
 * Twitter
