@@ -117,8 +117,6 @@
 * Place page URLs: Menu URL (url_menu)
 * Planning: LGBTQ-friendly (welcomes_lgbtq)
 
-```=GOOGLEMYBUSINESSbusinessListing(businessListing);```
-
 ```=GOOGLEMYBUSINESSTOTALSEARCHES(businessListing);```
 
 ```=GOOGLEMYBUSINESSDIRECTSEARCHES(businessListing);```
