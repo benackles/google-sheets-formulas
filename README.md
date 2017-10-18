@@ -1,6 +1,11 @@
 # Google Sheets Formulas
-Google Sheets for Google Web Services
 
 ## Google Keyword Planner
 
 ## Google My Business
+
+## Get URL Information
+
+### Get Preferred URL
+
+### Get Business Name from URL
