@@ -137,4 +137,8 @@
 
 ```=GOOGLEMYBUSINESSREVIEWS(businessListing);```
 
+**Attributes**
 
+* Average Ratings
+* Number of Reviews
+* Number of Responses
