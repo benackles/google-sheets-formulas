@@ -14,7 +14,18 @@
 
 ## Get URL Information
 
-```=GETPREFERREDURL(rootDomain, format);```
+```const rootDomain = GETROOTDOMAIN(URL);```
+
+Use regular expression to extract root domain from various URL formats
+
+* https://www.example.com
+* https://example.com
+* http://www.example.com
+* http://example.com
+* www.example.com
+* example.com
+
+```const preferredURL = GETPREFERREDURL(rootDomain, format);```
 
 **Formats**
 
@@ -59,7 +70,7 @@
 
 ## Google My Business
 
-```=GOOGLEMYBUSINESSLISTING(businessName, address);```
+```const businessListing = GOOGLEMYBUSINESSLISTING(businessName, address);```
 
 **Output**
 
