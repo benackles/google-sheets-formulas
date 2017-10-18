@@ -6,7 +6,20 @@
 
 ## Get URL Information
 
-```=GETPREFERREDURL(rootDomain);```
+```=GETPREFERREDURL(rootDomain, format);```
+
+**Formats**
+
+* Splice URL
+* Full URL
+
+**Components**
+
+* Connection
+* Protocol
+* Subdomain
+* Root Domain
+* Trailing Slash
 
 ```=GETBUSINESSNAME(preferredURL);```
 
