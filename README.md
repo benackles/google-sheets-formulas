@@ -45,7 +45,7 @@
 
 ```=GETBUSINESSNAME(preferredURL);```
 
-```=GETLOGOIMAGE(preferredURL);```
+```=GETLOGOIMAGEURL(preferredURL);```
 
 ## Google Keyword Planner
 
