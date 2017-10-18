@@ -61,7 +61,7 @@
 
 ```=GOOGLEMYBUSINESSLISTING(businessName, address);```
 
-**Attributes**
+**Output**
 
 * Status
 * Store code
