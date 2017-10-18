@@ -19,7 +19,6 @@
 * Protocol
 * Subdomain
 * Root Domain
-* Trailing Slash?
 
 ```=GETBUSINESSNAME(preferredURL);```
 
