@@ -28,7 +28,18 @@
 * Subdomain
 * Root Domain
 
-```=GETSOCIALPROFILEURLS(preferredURL);```
+```=GETSOCIALPROFILELINKS(preferredURL);```
+
+* Facebook
+* Twitter
+* Google+
+* Instagram
+* YouTube
+* LinkedIn
+* Myspace
+* Pinterest
+* SoundCloud
+* Tumblr
 
 ```=GETBUSINESSNAME(preferredURL);```
 
