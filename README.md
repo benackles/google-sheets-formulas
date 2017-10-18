@@ -10,7 +10,7 @@
 
 **Formats**
 
-* Splice URL
+* Spliced URL
 * Full URL
 
 **Components**
