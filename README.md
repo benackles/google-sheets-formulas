@@ -28,6 +28,8 @@
 * Subdomain
 * Root Domain
 
+```=GETSOCIALPROFILELINKS(preferredURL);```
+
 ```=GETBUSINESSNAME(preferredURL);```
 
 ```=GETLOGOIMAGE(preferredURL);```
