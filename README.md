@@ -14,7 +14,7 @@
 
 ## Get URL Information
 
-```const rootDomain = GETROOTDOMAIN(URL);```
+```let rootDomain = GETROOTDOMAIN(URL);```
 
 Use regular expression to extract root domain from various URL formats
 
@@ -25,7 +25,7 @@ Use regular expression to extract root domain from various URL formats
 * www.example.com
 * example.com (rootDomain)
 
-```const preferredURL = GETPREFERREDURL(rootDomain, format);```
+```let preferredURL = GETPREFERREDURL(rootDomain, format);```
 
 **Formats**
 
@@ -60,7 +60,7 @@ Use regular expression to extract root domain from various URL formats
 
 ## Google Keyword Planner
 
-```=GOOGLESEARCHCONTEXT(keyword, locations);```
+```let searchContext = GOOGLESEARCHCONTEXT(keyword, locations);```
 
 ```=GOOGLEAVERAGEMONTHLYSEARCHES(searchContext);```
 
@@ -70,7 +70,7 @@ Use regular expression to extract root domain from various URL formats
 
 ## Google My Business
 
-```const businessListing = GOOGLEMYBUSINESSLISTING(businessName, address);```
+```let businessListing = GOOGLEMYBUSINESSLISTING(businessName, address);```
 
 **Output**
 
