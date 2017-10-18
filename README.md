@@ -10,7 +10,7 @@
 * Weekly
 * Monthly
 * Quarterly
-* Annually
+* Yearly
 
 ## Get URL Information
 
