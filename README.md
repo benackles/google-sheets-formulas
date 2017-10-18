@@ -18,8 +18,8 @@
 
 **Formats**
 
-* Spliced URL
-* Full URL
+* Spliced URL (Separated into Columns by Components)
+* Combined URL (All Components Combined into Single Cell)
 
 **Components**
 
