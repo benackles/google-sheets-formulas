@@ -137,13 +137,13 @@
 
 **Output**
 
-* Days of the Week
-* Hours of the Day
+* Calls by Days of the Week
+* Calls by Hours of the Day
 
 ```=GOOGLEMYBUSINESSREVIEWS(businessListing);```
 
 **Output**
 
 * Average Ratings
-* Number of Reviews
-* Number of Responses
+* Count Reviews
+* Count Responses
