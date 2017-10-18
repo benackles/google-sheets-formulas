@@ -2,46 +2,46 @@
 
 ## Schedule Reports
 
-```=SCHEDULEREPORTS();```
+```=SCHEDULEREPORTS(frequency);```
 
 ## Get URL Information
 
-```=GETPREFERREDURL();```
+```=GETPREFERREDURL(rootDomain);```
 
-```=GETBUSINESSNAME();```
+```=GETBUSINESSNAME(preferredURL);```
 
-```=GETLOGOIMAGE();```
+```=GETLOGOIMAGE(preferredURL);```
 
-```=GETPROFILEIMAGES();```
+```=GETPROFILEIMAGES(preferredURL);```
 
-```=GETCOVERIMAGES();```
+```=GETCOVERIMAGES(preferredURL);```
 
 ## Google Keyword Planner
 
-```=GOOGLEAVERAGEMONTHLYSEARCHES();```
+```=GOOGLEAVERAGEMONTHLYSEARCHES(keyword, locations);```
 
-```=GOOGLESUGGESTEDBID();```
+```=GOOGLESUGGESTEDBID(keyword, locations);```
 
-```=GOOGLECOMPETITION();```
+```=GOOGLECOMPETITION(keyword, locations);```
 
 ## Google My Business
 
-```=GOOGLEMYBUSINESSTOTALSEARCHES();```
+```=GOOGLEMYBUSINESSTOTALSEARCHES(businessName, address);```
 
-```=GOOGLEMYBUSINESSDIRECTSEARCHES();```
+```=GOOGLEMYBUSINESSDIRECTSEARCHES(businessName, address);```
 
-```=GOOGLEMYBUSINESSTOTALVIEWS();```
+```=GOOGLEMYBUSINESSTOTALVIEWS(businessName, address);```
 
-```=GOOGLEMYBUSINESSSEARCHVIEWS();```
+```=GOOGLEMYBUSINESSSEARCHVIEWS(businessName, address);```
 
-```=GOOGLEMYBUSINESSMAPVIEWS();```
+```=GOOGLEMYBUSINESSMAPVIEWS(businessName, address);```
 
-```=GOOGLEMYBUSINESSTOTALACTIONS();```
+```=GOOGLEMYBUSINESSTOTALACTIONS(businessName, address);```
 
-```=GOOGLEMYBUSINESSWEBSITEACTIONS();```
+```=GOOGLEMYBUSINESSWEBSITEACTIONS(businessName, address);```
 
-```=GOOGLEMYBUSINESSDIRECTIONSACTIONS();```
+```=GOOGLEMYBUSINESSDIRECTIONSACTIONS(businessName, address);```
 
-```=GOOGLEMYBUSINESSPHONECALLS();```
+```=GOOGLEMYBUSINESSPHONECALLS(businessName, address);```
 
-```=GOOGLEMYBUSINESSREVIEWS();```
+```=GOOGLEMYBUSINESSREVIEWS(businessName, address);```
