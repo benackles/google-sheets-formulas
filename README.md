@@ -34,11 +34,13 @@
 
 ## Google Keyword Planner
 
-```=GOOGLEAVERAGEMONTHLYSEARCHES(keyword, locations);```
+```=GOOGLESEARCHCONTEXT(keyword, locations);```
 
-```=GOOGLESUGGESTEDBID(keyword, locations);```
+```=GOOGLEAVERAGEMONTHLYSEARCHES(searchContext);```
 
-```=GOOGLECOMPETITION(keyword, locations);```
+```=GOOGLESUGGESTEDBID(searchContext);```
+
+```=GOOGLECOMPETITION(searchContext);```
 
 ## Google My Business
 
