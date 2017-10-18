@@ -23,7 +23,7 @@ Use regular expression to extract root domain from various URL formats
 * http://www.example.com
 * http://example.com
 * www.example.com
-* example.com
+* example.com (rootDomain)
 
 ```const preferredURL = GETPREFERREDURL(rootDomain, format);```
 
