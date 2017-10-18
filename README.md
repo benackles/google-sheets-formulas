@@ -4,6 +4,14 @@
 
 ```=SCHEDULEREPORTS(frequency);```
 
+**Frequencies**
+
+* Daily
+* Weekly
+* Monthly
+* Quarterly
+* Annually
+
 ## Get URL Information
 
 ```=GETPREFERREDURL(rootDomain, format);```
@@ -38,22 +46,28 @@
 
 ## Google My Business
 
-```=GOOGLEMYBUSINESSTOTALSEARCHES(businessName, address);```
+```=GOOGLEMYBUSINESSLISTING(businessName, address);```
 
-```=GOOGLEMYBUSINESSDIRECTSEARCHES(businessName, address);```
+```=GOOGLEMYBUSINESSbusinessListing(businessListing);```
 
-```=GOOGLEMYBUSINESSTOTALVIEWS(businessName, address);```
+```=GOOGLEMYBUSINESSTOTALSEARCHES(businessListing);```
 
-```=GOOGLEMYBUSINESSSEARCHVIEWS(businessName, address);```
+```=GOOGLEMYBUSINESSDIRECTSEARCHES(businessListing);```
 
-```=GOOGLEMYBUSINESSMAPVIEWS(businessName, address);```
+```=GOOGLEMYBUSINESSTOTALVIEWS(businessListing);```
 
-```=GOOGLEMYBUSINESSTOTALACTIONS(businessName, address);```
+```=GOOGLEMYBUSINESSSEARCHVIEWS(businessListing);```
 
-```=GOOGLEMYBUSINESSWEBSITEACTIONS(businessName, address);```
+```=GOOGLEMYBUSINESSMAPVIEWS(businessListing);```
 
-```=GOOGLEMYBUSINESSDIRECTIONSACTIONS(businessName, address);```
+```=GOOGLEMYBUSINESSTOTALACTIONS(businessListing);```
 
-```=GOOGLEMYBUSINESSPHONECALLS(businessName, address);```
+```=GOOGLEMYBUSINESSWEBSITEACTIONS(businessListing);```
 
-```=GOOGLEMYBUSINESSREVIEWS(businessName, address);```
+```=GOOGLEMYBUSINESSDIRECTIONSACTIONS(businessListing);```
+
+```=GOOGLEMYBUSINESSPHONECALLS(businessListing);```
+
+```=GOOGLEMYBUSINESSREVIEWS(businessListing);```
+
+
