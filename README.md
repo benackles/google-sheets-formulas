@@ -135,9 +135,14 @@
 
 ```=GOOGLEMYBUSINESSPHONECALLS(businessListing);```
 
+**Output**
+
+* Days of the Week
+* Hours of the Day
+
 ```=GOOGLEMYBUSINESSREVIEWS(businessListing);```
 
-**Attributes**
+**Output**
 
 * Average Ratings
 * Number of Reviews
