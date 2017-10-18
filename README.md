@@ -30,6 +30,8 @@
 
 ```=GETSOCIALPROFILELINKS(preferredURL);```
 
+** Social Profile Links**
+
 * Facebook
 * Twitter
 * Google+
