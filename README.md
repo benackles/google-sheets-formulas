@@ -29,10 +29,10 @@ Use regular expression to extract root domain from various URL formats
 
 **Formats**
 
-* Spliced URL (Separated into Columns by Components)
-* Combined URL (All Components Combined into Single Cell)
+* Spliced URL (Output Separated into Columns)
+* Combined URL (All Outputs Combined into Single Cell)
 
-**Components**
+**Output**
 
 * Connection
 * Protocol
