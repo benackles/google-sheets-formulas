@@ -16,7 +16,7 @@
 
 ```let rootDomain = GETROOTDOMAIN(URL);```
 
-Use regular expression to extract root domain from various URL formats
+Use regular expression to extract root domain from various valid URL formats
 
 * https://www.example.com
 * https://example.com
